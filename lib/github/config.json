@@ -1,0 +1,5 @@
+{
+  "client_id": "e65add1d6b875c6afb09",
+  "redirect_uri": "http://localhost:3000/oauth/github",
+  "client_secret": "463af231c977c1a5f8e312821be0e035129d0731"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Atanasoff",
+  "description": "Atanasoff, an easy blogging tool with octopress for non-hackers.",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": ">3.0",
+    "connect-assets": "2.x",
+    "jade": "*",
+    "less": "*",
+    "coffee-script": "*",
+    "request": "*",
+    "colors": "*",
+    "node-markdown": "*",
+    "lodash": "*",
+    "smooth": "*"
+},
+  "scripts": {
+  "start": "server.js"
+},
+  "engines": {
+    "node": "0.8.16",
+    "npm": "1.1.x"
+},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}

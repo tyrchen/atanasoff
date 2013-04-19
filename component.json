@@ -1,0 +1,10 @@
+{
+  "name": "Atanasoff",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "*",
+    "lodash": "*",
+    "ace": "*",
+    "jasny": "git://github.com/jasny/bootstrap.git"
+  }
+}
